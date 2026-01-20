@@ -1,33 +1,30 @@
 # 📊 Financial Performance – Executive KPI Dashboard
 
 ## 🧠 Project Overview
-This project presents an **Executive-level Financial Performance Dashboard** built using **Tableau**.  
-The dashboard focuses on key business KPIs such as **Sales, Net Sales, Profit, and Profit Margin** to support **data-driven decision-making**.
+This project showcases an **Executive-Level Financial Performance Dashboard** developed using **Tableau Public**.  
+It provides a high-level snapshot of key financial KPIs to help stakeholders quickly evaluate business performance and profitability.
 
-The goal of this project is to demonstrate:
-- Business analytics thinking
-- KPI design best practices
-- Clean dashboard layout for executive consumption
+The dashboard is designed following **real-world Business Intelligence best practices**, focusing on clarity, consistency, and executive usability.
 
 ---
 
-## 🎯 Objectives
-- Analyze overall financial performance
-- Track profitability and margins
-- Provide a quick executive summary using KPI cards
-- Build a clean, professional, and interview-ready dashboard
+## 🎯 Project Objectives
+- Present a clear executive summary of financial performance
+- Monitor revenue, profit, and profitability ratios
+- Demonstrate KPI-driven dashboard design
+- Build a professional, portfolio-ready Tableau project
 
 ---
 
 ## 🛠 Tools & Technologies
-- **Tableau Public** – Data visualization & dashboarding
-- **CSV Dataset** – Financial performance data
-- **GitHub** – Project documentation & version control
+- **Tableau Public** – Data visualization and dashboard creation
+- **CSV Dataset** – Financial and sales data
+- **GitHub** – Project documentation and portfolio hosting
 
 ---
 
 ## 📁 Dataset Description
-The dataset contains financial and sales-related attributes such as:
+The dataset represents real-world financial performance data and contains the following attributes:
 
 - Country  
 - Segment  
@@ -41,12 +38,16 @@ The dataset contains financial and sales-related attributes such as:
 - Sales  
 - COGS (Cost of Goods Sold)  
 - Profit  
-- Date, Month, Year  
+- Date  
+- Month  
+- Year  
+
+This dataset is commonly used for **financial analytics and business intelligence use cases**.
 
 ---
 
-## 🧮 Key Calculated Fields
-The following calculated fields were created in Tableau:
+## 🧮 Calculated Fields
+To support KPI analysis, the following calculated fields were created in Tableau:
 
 ### 🔹 Net Sales
 ```text
