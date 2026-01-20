@@ -51,3 +51,5 @@ The following calculated fields were created in Tableau:
 ### 🔹 Net Sales
 ```text
 Net Sales = Sales - Discounts
+Profit Margin % = Profit / Sales
+
