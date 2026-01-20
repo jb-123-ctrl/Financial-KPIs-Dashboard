@@ -55,4 +55,6 @@ Net Sales = Sales - Discounts
 Profit Margin % = Profit / Sales
 
 🌐 **Live Dashboard:**  
-👉 [Click here to view the dashboard](https://public.tableau.com/app/profile/jayabharathi.s2826/viz/FinancialKPIsInsightsDashboard/Dashboard1)
+👉 [Click here to view the dashboard]-https://public.tableau.com/app/profile/jayabharathi.s2826/viz/FinancialKPIsInsightsDashboard/Dashboard1  
+
+
